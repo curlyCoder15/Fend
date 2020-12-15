@@ -1,0 +1,244 @@
+   { "1": {
+        "iban": "NL22RABO3154100547",
+        "name": "MINOX B.V.",
+        "amount": 5000,
+        "debit_credit": "credit",
+        "date": "2017-06-20",
+        "description": "MINOX B.V., Vendelier 25 27 3905PB VEENENDAAL Nederland NL, Aanvulling saldo (ivm KiKi donaties op Accountancy Expo)"
+      },
+      "2":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer d1709be2"
+      },
+      "3":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer 5da68160"
+      },
+      "4":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer fd45ce68"
+      },
+      "5":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 1,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer fa1d856e"
+      },
+      "6":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer ec38d047"
+      },
+      "7":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer 47b41578"
+      },
+      "8":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer f01b9081"
+      },
+      "9":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 1,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer a4f651b2"
+      },
+      "10":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer 42850372"
+      },
+      "11":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer b2bf2205"
+      },
+      "12":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer e49023ac"
+      },
+      "13":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer 3b9e870e"
+      },
+      "14":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer 53be1da9"
+      },
+      "15":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 10,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer 5231b267"
+      },
+      "16":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer 63377f6d"
+      },
+      "17":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer 7fdfb9f4"
+      },
+      "18":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer 68129304"
+      },
+      "19":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-20",
+        "description": "Betalingsnummer 12e0dfbb"
+      }
+    ,
+ 
+      "20":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 5,
+        "debit_credit": "debit",
+        "date": "2017-06-21",
+        "description": "Betalingsnummer b33bc436"
+      }
+   ,
+ 
+      "21":{
+        "iban": "",
+        "name": "Debetrente",
+        "amount": 0.04,
+        "debit_credit": "debit",
+        "date": "2017-07-06",
+        "description": "Debetrente, Periode 01-04-2017 t/m 30-06-2017"
+      },
+      "22":{
+        "iban": "",
+        "name": "Kosten",
+        "amount": 21.8,
+        "debit_credit": "debit",
+        "date": "2017-07-06",
+        "description": "Kosten, Periode 01-04-2017 t/m 30-06-2017"
+      }
+    ,
+  
+      "23":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 16,
+        "debit_credit": "debit",
+        "date": "2017-07-07",
+        "description": "Betalingsnummer be87ad7a"
+      }
+   ,
+ 
+      "24":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 0.11,
+        "debit_credit": "debit",
+        "date": "2017-07-14",
+        "description": "Betalingsnummer be0dc54c"
+      }
+    ,
+      "25":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 11,
+        "debit_credit": "debit",
+        "date": "2017-07-18",
+        "description": "Betalingsnummer b44893ce"
+      },
+      "26":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 0.02,
+        "debit_credit": "debit",
+        "date": "2017-07-18",
+        "description": "Betalingsnummer 80cdc42c"
+      }
+   ,
+      "27":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 0.02,
+        "debit_credit": "debit",
+        "date": "2017-07-19",
+        "description": "Betalingsnummer 2913045c"
+      },
+      "28":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 10,
+        "debit_credit": "debit",
+        "date": "2017-07-19",
+        "description": "Betalingsnummer e1e33717"
+      },
+      "29":{
+        "iban": "",
+        "name": "Bizcuit",
+        "amount": 15,
+        "debit_credit": "debit",
+        "date": "2017-07-19",
+        "description": "Betalingsnummer 67805d60"
+      }
+   
+    }

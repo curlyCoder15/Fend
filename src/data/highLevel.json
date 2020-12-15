@@ -1,0 +1,121 @@
+{
+  "1":{
+    "id": "0315778504.2017-06-20",
+    "iban": "NL92RABO0315778504",
+    "date": "2017-06-20T21:40:37.000Z",
+    "balances": [
+      {
+        "amount": 2.76,
+        "debit_credit": "credit",
+        "date": "2017-06-19"
+      },
+      {
+        "amount": 4915.76,
+        "debit_credit": "credit",
+        "date": "2017-06-20"
+      }
+    ]
+  },
+  "2":{
+    "id": "0315778504.2017-06-21",
+    "iban": "NL92RABO0315778504",
+    "date": "2017-06-20T22:39:47.000Z",
+    "balances": [
+      {
+        "amount": 4915.76,
+        "debit_credit": "credit",
+        "date": "2017-06-20"
+      },
+      {
+        "amount": 4910.76,
+        "debit_credit": "credit",
+        "date": "2017-06-21"
+      }
+    ]
+  },
+"3":  {
+    "id": "0315778504.2017-07-06",
+    "iban": "NL92RABO0315778504",
+    "date": "2017-07-06T21:38:14.000Z",
+    "balances": [
+      {
+        "amount": 4910.76,
+        "debit_credit": "credit",
+        "date": "2017-07-05"
+      },
+      {
+        "amount": 4888.92,
+        "debit_credit": "credit",
+        "date": "2017-07-06"
+      }
+    ]
+  },
+ "4": {
+    "id": "0315778504.2017-07-07",
+    "iban": "NL92RABO0315778504",
+    "date": "2017-07-07T21:46:30.000Z",
+    "balances": [
+      {
+        "amount": 4888.92,
+        "debit_credit": "credit",
+        "date": "2017-07-06"
+      },
+      {
+        "amount": 4872.92,
+        "debit_credit": "credit",
+        "date": "2017-07-07"
+      }
+    ]
+  },
+  "5":{
+    "id": "0315778504.2017-07-14",
+    "iban": "NL92RABO0315778504",
+    "date": "2017-07-14T20:39:58.000Z",
+    "balances": [
+      {
+        "amount": 4872.92,
+        "debit_credit": "credit",
+        "date": "2017-07-13"
+      },
+      {
+        "amount": 4872.81,
+        "debit_credit": "credit",
+        "date": "2017-07-14"
+      }
+    ]
+  },
+ "6": {
+    "id": "0315778504.2017-07-18",
+    "iban": "NL92RABO0315778504",
+    "date": "2017-07-18T20:39:34.000Z",
+    "balances": [
+      {
+        "amount": 4872.81,
+        "debit_credit": "credit",
+        "date": "2017-07-17"
+      },
+      {
+        "amount": 4861.79,
+        "debit_credit": "credit",
+        "date": "2017-07-18"
+      }
+    ]
+  },
+ "7": {
+    "id": "0315778504.2017-07-19",
+    "iban": "NL92RABO0315778504",
+    "date": "2017-07-19T20:40:29.000Z",
+    "balances": [
+      {
+        "amount": 4861.79,
+        "debit_credit": "credit",
+        "date": "2017-07-18"
+      },
+      {
+        "amount": 4836.77,
+        "debit_credit": "credit",
+        "date": "2017-07-19"
+      }
+    ]
+  }
+}

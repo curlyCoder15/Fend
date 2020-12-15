@@ -1,0 +1,25 @@
+.TransactionCont {
+	width: 100%;
+	align-items: center;
+}
+
+.List {
+	border-top: 1px solid green;
+	padding: 25px 0px;
+}
+.Button {
+	background-color: white;
+	border: 0px solid black;
+}
+.Head {
+	font-size: 30px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+
+.debit {
+	color: red;
+}
+.credit {
+	color: green;
+}
